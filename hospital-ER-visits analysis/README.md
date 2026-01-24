@@ -6,10 +6,10 @@ This interactive Tableau dashboard explores patterns in Emergency Room visits, h
 ---
 
 ## 🔍 Key Insights
-- ER visit volume by time, day, and month  
+- ER visit volume by time and day of the week 
 - Patient demographics and visit categories  
 - Trends in high‑traffic periods  
-- Comparative analysis across different ER units  
+- Comparative analysis across different referrals
 
 ---
 
