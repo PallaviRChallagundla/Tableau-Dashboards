@@ -18,6 +18,11 @@ https://public.tableau.com/shared/W8W9MRNND?:display_count=n&:origin=viz_share_l
 
 ---
 
+## 🖼️ Dashboard Preview
+![Hospital ER Dashboard](preview.png)
+
+---
+
 ## 📁 Files in This Folder
 - **`hospital-ER-visits.twbx`** — Tableau workbook  
 - **`preview.png`** — Screenshot of the dashboard  
