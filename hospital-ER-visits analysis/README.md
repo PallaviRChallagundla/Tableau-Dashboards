@@ -19,7 +19,7 @@ https://public.tableau.com/shared/W8W9MRNND?:display_count=n&:origin=viz_share_l
 ---
 
 ## 🖼️ Dashboard Preview
-![Hospital ER Dashboard](preview.png)
+![Hospital ER Dashboard](ERvisits.png)
 
 ---
 
