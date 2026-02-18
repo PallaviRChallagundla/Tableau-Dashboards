@@ -5,5 +5,5 @@
 https://public.tableau.com/app/profile/pallavi.challagundla/viz/Videogamesalesacrosstheglobe/Dashboard1
 
 ### Static Preview
-![video games sales](Dashboard 1.png)
+![Sales Dashboard](Dashboard 1.png)
 
