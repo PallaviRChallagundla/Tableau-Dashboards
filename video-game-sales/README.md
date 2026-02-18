@@ -16,7 +16,6 @@ This interactive Tableau dashboard explores global video game sales, helping ide
 ## 📊 View the Interactive Dashboard
 https://public.tableau.com/app/profile/pallavi.challagundla/viz/Videogamesalesacrosstheglobe/Dashboard1
 
----
 
 ## 🖼️ Dashboard Preview
 ![Sales Dashboard](Dashboard%201.png)
